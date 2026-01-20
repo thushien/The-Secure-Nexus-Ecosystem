@@ -1,0 +1,4 @@
+- Always use Python type hints (PEP 484).
+- Ensure all API endpoints have Pydantic response_model defined.
+- Follow the Repository Pattern for database interactions.
+- Use 'ruff' for linting and 'mypy' for type checking before suggesting code.
