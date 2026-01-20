@@ -1,5 +1,6 @@
 🛡️ Secure-Nexus API Ecosystem
 Enterprise-Grade Python Backend with Hybrid REST/GraphQL Architecture
+
 📖 Overview
 Secure-Nexus is a high-performance, multi-tenant backend ecosystem designed to demonstrate modern architectural patterns. It bridges the gap between traditional RESTful services and flexible GraphQL data fetching, all while maintaining a "Security-First" posture.
 
